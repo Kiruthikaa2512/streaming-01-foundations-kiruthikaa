@@ -111,7 +111,7 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/streaming-01-foundations
+git clone https://github.com/kiruthikaa2512/streaming-01-foundations
 
 cd streaming-01-foundations
 code .
@@ -289,7 +289,7 @@ You can split terminals shown below, or just click between them as you like.
 | P01 | DATA_DIR = data
 | P01 | SALES_CSV = data\sales.csv
 | P01 | TOPIC_CSV = data\output\streaming-01-foundations-case.csv
-| P01 | ========================
+| P01 | =======================
 | P01 | SECTION A. Acquire
 | P01 | ========================
 | P01 | Loading settings from .env...
